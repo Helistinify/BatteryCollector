@@ -596,3 +596,757 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-12.11.43:672][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.16-12.11.43:676][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2019.10.16-12.11.43:732][771]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.16-12.12.46:417][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.12.54:110][820]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/EnemyNonCopy.EnemyNonCopy
+[2019.10.16-12.12.54:323][820]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.16-12.12.55:013][820]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.16-12.12.55:075][821]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.16-12.15.03:839][190]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.15.03:995][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.16-12.15.04:527][226]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopy3F6266CD4AA48E298AEF95A602B34793.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.15.07:864][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.10.16-12.15.08:016][591]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel5EA7CAB545EBA04E512AFA862089E8CE.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2019.10.16-12.15.08:460][591]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel_BuiltData2AA130334741AD64DB1C808B8D9D6D1C.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2019.10.16-12.15.11:729][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.15.11:753][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.15.11:753][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.15.11:753][938]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:15:11 PM)
+[2019.10.16-12.15.11:754][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.15.11:757][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003529s)
+[2019.10.16-12.15.11:758][938]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.15.11:758][938]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.10.16-12.15.11:758][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004375s)
+[2019.10.16-12.15.11:783][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.16-12.15.11:786][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.15.11:806][938]LogInit: FAudioDevice initialized.
+[2019.10.16-12.15.11:835][938]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.15.11:838][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.15.11
+[2019.10.16-12.15.11:839][938]LogWorld: Bringing up level for play took: 0.002312
+[2019.10.16-12.15.11:852][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.284
+[2019.10.16-12.15.11:852][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.15.13:419][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.15.26:724][660]LogClass: You have collected BatteryBP_C_2
+[2019.10.16-12.15.35:420][667]LogClass: You have collected BatteryBP_C_5
+[2019.10.16-12.15.38:328][997]LogClass: You have collected BatteryBP_C_4
+[2019.10.16-12.15.39:111][ 86]LogClass: You have collected BatteryBP_C_6
+[2019.10.16-12.15.40:419][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.15.40:420][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.15.40:456][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.15.40:456][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.15.40:488][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.15.40:492][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.16-12.15.40:549][243]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.16-12.15.48:288][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.18.16:634][816]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.18.16:783][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.16-12.18.17:681][902]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyDE67552F404E90DBBF27628ADE032E1A.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.18.18:533][  1]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.18.18:556][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.18:556][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.18.18:556][  1]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:18:18 PM)
+[2019.10.16-12.18.18:556][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.18.18:560][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003188s)
+[2019.10.16-12.18.18:560][  1]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.18.18:561][  1]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2019.10.16-12.18.18:561][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004287s)
+[2019.10.16-12.18.18:583][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.10.16-12.18.18:586][  1]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.18.18:607][  1]LogInit: FAudioDevice initialized.
+[2019.10.16-12.18.18:615][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.18.18:650][  1]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.18.18:653][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.18.18
+[2019.10.16-12.18.18:654][  1]LogWorld: Bringing up level for play took: 0.003109
+[2019.10.16-12.18.18:669][  1]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.531
+[2019.10.16-12.18.18:669][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.19:553][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.18.27:647][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.27:648][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.18.27:663][ 72]LogSlate: Window 'BatteryCollector Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.16-12.18.27:698][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.18.27:698][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.27:738][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.16-12.18.27:768][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.16-12.18.29:731][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.16-12.18.29:890][296]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevelD8A5CCF6466698A6666D17ABB11708F8.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2019.10.16-12.18.30:222][296]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel_BuiltData2BBB22CE4857D5A61952C1972FCE4FA7.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2019.10.16-12.18.34:424][749]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.18.34:451][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.34:452][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.18.34:452][749]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:18:34 PM)
+[2019.10.16-12.18.34:452][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.18.34:459][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006413s)
+[2019.10.16-12.18.34:460][749]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.18.34:460][749]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.10.16-12.18.34:460][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.007487s)
+[2019.10.16-12.18.34:492][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.16-12.18.34:496][749]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.18.34:523][749]LogInit: FAudioDevice initialized.
+[2019.10.16-12.18.34:550][749]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.18.34:552][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.18.34
+[2019.10.16-12.18.34:553][749]LogWorld: Bringing up level for play took: 0.002390
+[2019.10.16-12.18.34:567][749]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.43
+[2019.10.16-12.18.34:567][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.18.36:221][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.00:090][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.00:090][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.00:125][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.19.00:125][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.00:161][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.00:165][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.16-12.19.00:191][696]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.16-12.19.02:825][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.19.02:889][990]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.19.02:905][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.02:905][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.19.02:905][990]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:19:02 PM)
+[2019.10.16-12.19.02:905][990]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.19.02:909][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003990s)
+[2019.10.16-12.19.02:909][990]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.19.02:910][990]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2019.10.16-12.19.02:910][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004960s)
+[2019.10.16-12.19.02:936][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.16-12.19.02:940][990]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.19.02:960][990]LogInit: FAudioDevice initialized.
+[2019.10.16-12.19.02:987][990]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.19.02:989][990]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.19.02
+[2019.10.16-12.19.02:990][990]LogWorld: Bringing up level for play took: 0.001774
+[2019.10.16-12.19.03:003][990]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.866
+[2019.10.16-12.19.03:003][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.06:041][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.11:593][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.11:594][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.11:627][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.19.11:627][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.11:661][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.19.11:664][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.16-12.19.11:720][990]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.16-12.19.37:029][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.19.53:694][621]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.16-12.19.55:953][860]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.16-12.19.56:852][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.19.57:873][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.19.57:892][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.19.57:892][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.19.57:892][ 64]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:19:57 PM)
+[2019.10.16-12.19.57:892][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.19.57:895][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003186s)
+[2019.10.16-12.19.57:896][ 64]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.19.57:896][ 64]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2019.10.16-12.19.57:896][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004358s)
+[2019.10.16-12.19.57:924][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.16-12.19.57:927][ 64]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.19.57:948][ 64]LogInit: FAudioDevice initialized.
+[2019.10.16-12.19.57:975][ 64]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.19.57:977][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.19.57
+[2019.10.16-12.19.57:978][ 64]LogWorld: Bringing up level for play took: 0.001935
+[2019.10.16-12.19.57:991][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.146
+[2019.10.16-12.19.57:992][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.20.07:344][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.20.22:324][169]LogClass: You have collected BatteryBP3_11
+[2019.10.16-12.20.55:946][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.20.55:947][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.20.55:976][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.20.55:976][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.20.56:006][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.20.56:010][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.16-12.20.56:071][815]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.16-12.20.58:207][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.21.47:403][910]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.21.47:550][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.16-12.21.48:227][970]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopy68D9549D4A2C009824A716A22FDA5455.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.21.51:650][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.21.51:674][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.21.51:674][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.21.51:674][360]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:21:51 PM)
+[2019.10.16-12.21.51:674][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.21.51:678][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003305s)
+[2019.10.16-12.21.51:678][360]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.21.51:678][360]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.10.16-12.21.51:678][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004092s)
+[2019.10.16-12.21.51:707][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.16-12.21.51:710][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.21.51:731][360]LogInit: FAudioDevice initialized.
+[2019.10.16-12.21.51:759][360]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.21.51:761][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.21.51
+[2019.10.16-12.21.51:761][360]LogWorld: Bringing up level for play took: 0.001992
+[2019.10.16-12.21.51:775][360]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.364
+[2019.10.16-12.21.51:775][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.21.52:474][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.22.10:950][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.22.10:951][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.22.10:987][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.22.10:988][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.22.11:020][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.22.11:024][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.16-12.22.11:080][552]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.16-12.22.20:810][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.22.53:398][138]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.22.53:547][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.10.16-12.22.54:017][164]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopy89A675004394E42920FD86BFB2319E4E.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.23.40:353][711]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.23.40:376][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.23.40:376][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.23.40:376][711]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:23:40 PM)
+[2019.10.16-12.23.40:376][711]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.23.40:379][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003141s)
+[2019.10.16-12.23.40:380][711]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.23.40:380][711]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2019.10.16-12.23.40:381][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004269s)
+[2019.10.16-12.23.40:408][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.16-12.23.40:412][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.23.40:432][711]LogInit: FAudioDevice initialized.
+[2019.10.16-12.23.40:461][711]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.23.40:463][711]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.23.40
+[2019.10.16-12.23.40:464][711]LogWorld: Bringing up level for play took: 0.002025
+[2019.10.16-12.23.40:477][711]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.337
+[2019.10.16-12.23.40:477][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.23.41:093][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.23.52:742][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.23.52:742][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.23.52:782][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.23.52:783][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.23.52:819][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.23.52:824][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.16-12.23.52:850][103]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.16-12.25.10:948][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.26.38:268][719]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.26.38:415][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.16-12.26.38:981][763]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopy101C14DA47EB96FA0AE4068CF2FBC41A.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.26.41:017][996]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.26.41:040][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.26.41:041][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.26.41:041][996]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:26:41 PM)
+[2019.10.16-12.26.41:041][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.26.41:044][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2019.10.16-12.26.41:045][996]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.26.41:045][996]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2019.10.16-12.26.41:045][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004316s)
+[2019.10.16-12.26.41:074][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.16-12.26.41:077][996]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.26.41:099][996]LogInit: FAudioDevice initialized.
+[2019.10.16-12.26.41:127][996]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.26.41:130][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.26.41
+[2019.10.16-12.26.41:130][996]LogWorld: Bringing up level for play took: 0.002014
+[2019.10.16-12.26.41:144][996]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.002
+[2019.10.16-12.26.41:144][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.26.41:779][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.26.51:673][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.26.51:673][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.26.51:710][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.26.51:711][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.26.51:746][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.26.51:749][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.16-12.26.51:775][211]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.16-12.26.53:587][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.27.27:822][428]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyCB4B6B354DAF1B1925FF059C4BF7B30F.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.27.28:830][547]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.27.28:980][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.16-12.27.29:502][591]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopy811EFCFF45B4144F9290B0BA92397C6A.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.27.31:345][799]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.27.31:368][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.27.31:368][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.27.31:368][799]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:27:31 PM)
+[2019.10.16-12.27.31:368][799]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.27.31:372][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003442s)
+[2019.10.16-12.27.31:373][799]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.27.31:373][799]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.10.16-12.27.31:373][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004328s)
+[2019.10.16-12.27.31:398][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.16-12.27.31:402][799]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.27.31:422][799]LogInit: FAudioDevice initialized.
+[2019.10.16-12.27.31:453][799]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.27.31:455][799]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.27.31
+[2019.10.16-12.27.31:456][799]LogWorld: Bringing up level for play took: 0.002043
+[2019.10.16-12.27.31:470][799]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.673
+[2019.10.16-12.27.31:470][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.27.32:064][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.27.40:727][830]LogClass: You have collected NegBatteryBP_C_1
+[2019.10.16-12.27.44:233][235]LogClass: You have collected BatteryBP_C_2
+[2019.10.16-12.27.45:004][315]LogClass: You have collected BatteryBP_C_0
+[2019.10.16-12.27.45:032][318]LogClass: You have collected NegBatteryBP_C_0
+[2019.10.16-12.27.47:024][550]LogClass: You have collected BatteryBP_C_3
+[2019.10.16-12.27.48:136][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.27.48:137][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.27.48:170][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.27.48:170][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.27.48:206][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.27.48:211][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.16-12.27.48:236][684]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.16-12.27.51:991][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.27.54:340][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Bluprints/Pickups/NegBatteryBP.NegBatteryBP
+[2019.10.16-12.28.48:833][681]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyC8170B634D167B9979297682CA5CA3D5.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.28.50:227][841]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyB001910543845AE266D970AC72047999.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.28.50:587][882]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.28.50:738][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.16-12.28.51:304][933]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyF4DD42F2465A5ECF072A9D96F8697645.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.28.53:887][226]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.28.53:914][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.28.53:914][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.28.53:914][226]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:28:53 PM)
+[2019.10.16-12.28.53:914][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.28.53:917][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2019.10.16-12.28.53:918][226]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.28.53:918][226]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2019.10.16-12.28.53:918][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004476s)
+[2019.10.16-12.28.53:947][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.16-12.28.53:950][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.28.53:971][226]LogInit: FAudioDevice initialized.
+[2019.10.16-12.28.53:997][226]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.28.54:000][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.28.54
+[2019.10.16-12.28.54:000][226]LogWorld: Bringing up level for play took: 0.001870
+[2019.10.16-12.28.54:015][226]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.129
+[2019.10.16-12.28.54:015][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.28.54:757][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.29.10:895][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.29.10:896][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.29.10:934][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.29.10:935][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.29.10:972][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.29.10:975][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.16-12.29.11:001][109]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.16-12.29.30:230][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.29.30:346][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.16-12.29.31:528][117]LogSlate: Window 'Save Content' being destroyed
+[2019.10.16-12.29.31:573][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.16-12.29.31:742][117]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel5C8D59954BFE068A46E76AA809ACCCFE.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2019.10.16-12.29.31:777][117]LogFileHelpers: Saving map 'CollectionLevel' took 0.231
+[2019.10.16-12.31.15:303][ 42]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.31.15:450][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.16-12.31.19:767][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.16-12.31.19:925][522]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel01BE902D4E0B20EFFC0E31AC5ED06BC7.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2019.10.16-12.31.20:251][522]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel_BuiltData7E85FC254253D2FEF374C6B5B322D53D.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2019.10.16-12.31.20:811][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.31.20:839][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.31.20:839][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.31.20:839][554]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:31:20 PM)
+[2019.10.16-12.31.20:839][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.31.20:843][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003437s)
+[2019.10.16-12.31.20:843][554]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.31.20:843][554]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.10.16-12.31.20:843][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004245s)
+[2019.10.16-12.31.20:872][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.16-12.31.20:875][554]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.31.20:896][554]LogInit: FAudioDevice initialized.
+[2019.10.16-12.31.20:923][554]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.31.20:925][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.31.20
+[2019.10.16-12.31.20:926][554]LogWorld: Bringing up level for play took: 0.001881
+[2019.10.16-12.31.20:940][554]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.795
+[2019.10.16-12.31.20:940][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.31.21:548][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.31.38:481][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.31.38:481][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.31.38:519][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.31.38:519][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.31.38:557][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.31.38:561][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.16-12.31.38:588][517]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.16-12.31.52:607][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.33.04:650][493]BlueprintLog: New page: Compile EnemyNonCopy
+[2019.10.16-12.33.04:799][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.16-12.33.05:237][520]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/EnemyNonCopyF77081594110127C5DEBB7943DBFB204.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/ThirdPersonCPP/Blueprints/EnemyNonCopy.uasset'
+[2019.10.16-12.33.07:594][778]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.33.07:621][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.07:621][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.33.07:621][778]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:33:07 PM)
+[2019.10.16-12.33.07:621][778]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.33.07:625][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003282s)
+[2019.10.16-12.33.07:625][778]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.33.07:626][778]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2019.10.16-12.33.07:626][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004377s)
+[2019.10.16-12.33.07:655][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.16-12.33.07:658][778]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.33.07:680][778]LogInit: FAudioDevice initialized.
+[2019.10.16-12.33.07:711][778]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.33.07:713][778]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.33.07
+[2019.10.16-12.33.07:714][778]LogWorld: Bringing up level for play took: 0.001930
+[2019.10.16-12.33.07:728][778]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.417
+[2019.10.16-12.33.07:729][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.09:703][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.09:703][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.33.09:736][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.33.09:736][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.09:772][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.33.09:776][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.16-12.33.09:833][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.16-12.33.11:257][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.33.11:311][179]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.16-12.33.11:329][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.11:329][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.16-12.33.11:329][179]PIE: New page: PIE session: CollectionLevel (Oct 16, 2019, 6:33:11 PM)
+[2019.10.16-12.33.11:329][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2019.10.16-12.33.11:333][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003605s)
+[2019.10.16-12.33.11:334][179]LogAIModule: Creating AISystem for world CollectionLevel
+[2019.10.16-12.33.11:334][179]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2019.10.16-12.33.11:334][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004804s)
+[2019.10.16-12.33.11:363][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.16-12.33.11:366][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.16-12.33.11:389][179]LogInit: FAudioDevice initialized.
+[2019.10.16-12.33.11:419][179]LogLoad: Game class is 'BatteryCollectorGameMode_BP_C'
+[2019.10.16-12.33.11:421][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2019.10.16-15.33.11
+[2019.10.16-12.33.11:421][179]LogWorld: Bringing up level for play took: 0.001795
+[2019.10.16-12.33.11:435][179]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.71
+[2019.10.16-12.33.11:435][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.12:267][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.33.18:492][993]LogClass: You have collected BatteryBP_C_0
+[2019.10.16-12.33.21:504][347]LogClass: You have collected BatteryBP3_11
+[2019.10.16-12.33.39:728][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.39:728][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.33.39:768][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.16-12.33.39:768][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel' with GeneratedClass '/Game/Maps/CollectionLevel.CollectionLevel_C' with ClassGeneratedBy '/Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.CollectionLevel'
+[2019.10.16-12.33.39:806][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.16-12.33.39:810][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.16-12.33.39:836][397]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.16-12.33.42:845][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-12.33.42:939][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.16-12.33.44:674][705]LogSlate: Window 'Save Content' being destroyed
+[2019.10.16-12.33.44:721][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.16-12.33.44:880][705]LogSavePackage: Moving '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Saved/CollectionLevel46F478CA4813B216971592B9DBC2D556.tmp' to '../../../../../../Users/heikki.vayrynen/Documents/GitHub/BatteryCollector/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2019.10.16-12.33.44:916][705]LogFileHelpers: Saving map 'CollectionLevel' took 0.227
+[2019.10.16-12.33.50:989][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.16-12.33.51:116][381]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.16-12.33.51:167][381]LogSlate: Window 'BatteryCollector - Unreal Editor' being destroyed
+[2019.10.16-12.33.51:373][382]Cmd: QUIT_EDITOR
+[2019.10.16-12.33.51:562][382]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.16-12.33.51:574][382]LogExit: Preparing to exit.
+[2019.10.16-12.33.52:493][382]LogExit: Editor shut down
+[2019.10.16-12.33.52:493][382]LogExit: Transaction tracking system shut down
+[2019.10.16-12.33.52:695][382]LogExit: Object subsystem successfully closed.
+[2019.10.16-12.33.52:717][382]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.16-12.33.52:721][382]LogD3D11RHI: Shutdown
+[2019.10.16-12.33.52:721][382]LogD3D11RHI: CleanupD3DDevice
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.16-12.33.52:721][382]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.16-12.33.52:829][382]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.10.16-12.33.52:848][382]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.10.16-12.33.52:849][382]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.10.16-12.33.53:109][382]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.10.16-12.33.53:110][382]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.10.16-12.33.53:162][382]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.16-12.33.53:166][382]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.10.16-12.33.53:169][382]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.10.16-12.33.53:376][382]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module BatteryCollector (296)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.16-12.33.53:377][382]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.16-12.33.53:478][382]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.16-12.33.53:579][382]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.16-12.33.53:579][382]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.16-12.33.53:580][382]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.16-12.33.53:581][382]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.16-12.33.53:581][382]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.16-12.33.53:581][382]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.16-12.33.53:581][382]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.16-12.33.53:582][382]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.16-12.33.53:615][382]LogDerivedDataCache: Shutdown
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.16-12.33.53:615][382]LogXGEController: Cleaning working directory: C:/Users/heikki.vayrynen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.16-12.33.53:615][382]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.16-12.33.53:616][382]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.16-12.33.53:617][382]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.16-12.33.53:621][382]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.16-12.33.53:621][382]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.16-12.33.53:622][382]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.16-12.33.53:622][382]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.16-12.33.53:630][382]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.16-12.33.53:630][382]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.10.16-12.33.53:630][382]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B190159A2-45D8-17E5-9939-049CA086E0E9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1854a4104f736fdb45d2ee9ee31fe283%7Cc1685f7445034023888ebcba54b5c93a%7Ccad42706-c10f-47ba-9d2c-2d5d9f951f89&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.16-12.33.53:630][382]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B190159A2-45D8-17E5-9939-049CA086E0E9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1854a4104f736fdb45d2ee9ee31fe283%7Cc1685f7445034023888ebcba54b5c93a%7Ccad42706-c10f-47ba-9d2c-2d5d9f951f89&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.16-12.33.53:661][382]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.16-12.33.53:662][382]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.16-12.33.53:663][382]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.16-12.33.53:669][382]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.16-12.33.53:669][382]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.16-12.33.53:670][382]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.16-12.33.53:671][382]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.16-12.33.53:678][382]LogExit: Exiting.
+[2019.10.16-12.33.53:687][382]Log file closed, 10/16/19 15:33:53
