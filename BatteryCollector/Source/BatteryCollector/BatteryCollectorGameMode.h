@@ -36,6 +36,9 @@ public:
 	UFUNCTION(BlueprintPure, Category = "Power")
 	EBAtteryPlayState GetCurrentState() const;
 
+	UFUNCTION(BlueprintPure, Category = "Power")
+	float GetDecayRate();
+
 	UFUNCTION(BlueprintCallable, Category = "Power")
 	void SetCurrentState(EBAtteryPlayState newstate);
 

@@ -19,6 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 	BATTERYCOLLECTOR_API UClass* Z_Construct_UClass_ABatteryCollectorGameMode();
 	ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
 	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ABatteryCollectorGameMode_GetCurrentState();
+	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate();
 	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ABatteryCollectorGameMode_GetPowerToWin();
 	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ABatteryCollectorGameMode_SetCurrentState();
 	UMG_API UClass* Z_Construct_UClass_UUserWidget_NoRegister();
@@ -83,6 +84,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 		UClass* Class = ABatteryCollectorGameMode::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "GetCurrentState", &ABatteryCollectorGameMode::execGetCurrentState },
+			{ "GetDecayRate", &ABatteryCollectorGameMode::execGetDecayRate },
 			{ "GetPowerToWin", &ABatteryCollectorGameMode::execGetPowerToWin },
 			{ "SetCurrentState", &ABatteryCollectorGameMode::execSetCurrentState },
 		};
@@ -122,6 +124,39 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABatteryCollectorGameMode_GetCurrentState_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics
+	{
+		struct BatteryCollectorGameMode_eventGetDecayRate_Parms
+		{
+			float ReturnValue;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BatteryCollectorGameMode_eventGetDecayRate_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Power" },
+		{ "ModuleRelativePath", "BatteryCollectorGameMode.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABatteryCollectorGameMode, nullptr, "GetDecayRate", sizeof(BatteryCollectorGameMode_eventGetDecayRate_Parms), Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -232,6 +267,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ABatteryCollectorGameMode_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ABatteryCollectorGameMode_GetCurrentState, "GetCurrentState" }, // 409509841
+		{ &Z_Construct_UFunction_ABatteryCollectorGameMode_GetDecayRate, "GetDecayRate" }, // 1509733802
 		{ &Z_Construct_UFunction_ABatteryCollectorGameMode_GetPowerToWin, "GetPowerToWin" }, // 176198922
 		{ &Z_Construct_UFunction_ABatteryCollectorGameMode_SetCurrentState, "SetCurrentState" }, // 3495291462
 	};
@@ -311,7 +347,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABatteryCollectorGameMode, 2737461084);
+	IMPLEMENT_CLASS(ABatteryCollectorGameMode, 3898844218);
 	template<> BATTERYCOLLECTOR_API UClass* StaticClass<ABatteryCollectorGameMode>()
 	{
 		return ABatteryCollectorGameMode::StaticClass();

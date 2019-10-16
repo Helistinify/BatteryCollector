@@ -25,6 +25,14 @@ enum class EBAtteryPlayState : uint8;
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execGetDecayRate) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(float*)Z_Param__Result=P_THIS->GetDecayRate(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execGetCurrentState) \
 	{ \
 		P_FINISH; \
@@ -50,6 +58,14 @@ enum class EBAtteryPlayState : uint8;
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->SetCurrentState(EBAtteryPlayState(Z_Param_newstate)); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execGetDecayRate) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(float*)Z_Param__Result=P_THIS->GetDecayRate(); \
 		P_NATIVE_END; \
 	} \
  \

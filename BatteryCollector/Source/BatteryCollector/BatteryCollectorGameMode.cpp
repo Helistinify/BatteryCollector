@@ -73,6 +73,11 @@ EBAtteryPlayState ABatteryCollectorGameMode::GetCurrentState() const
 	return CurrentState;
 }
 
+float ABatteryCollectorGameMode::GetDecayRate()
+{
+	return DecayRate;
+}
+
 void ABatteryCollectorGameMode::SetCurrentState(EBAtteryPlayState newstate) 
 {
 	CurrentState = newstate;
