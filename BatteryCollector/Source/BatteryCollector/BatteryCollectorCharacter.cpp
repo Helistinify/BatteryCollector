@@ -64,6 +64,12 @@ ABatteryCollectorCharacter::ABatteryCollectorCharacter()
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
 }
 
+void ABatteryCollectorCharacter::Tick(float DeltaTime) {
+	Super::Tick(DeltaTime);
+
+	CollectPickups();
+}
+
 //////////////////////////////////////////////////////////////////////////
 // Input
 

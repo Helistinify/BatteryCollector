@@ -25,6 +25,8 @@ class ABatteryCollectorCharacter : public ACharacter
 public:
 	ABatteryCollectorCharacter();
 
+	virtual void Tick(float DeltaSeconds) override;
+
 	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseTurnRate;

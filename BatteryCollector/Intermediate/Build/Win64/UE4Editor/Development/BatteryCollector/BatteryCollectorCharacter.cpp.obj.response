@@ -426,9 +426,9 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector"
-/I "C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Source"
-/I "C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector"
+/I C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector
+/I C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Source
+/I C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Source\BatteryCollector
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
@@ -437,12 +437,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.cpp"
-/FI"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h"
-/Fo"C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorCharacter.cpp.obj"
+/FI"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.cpp"
+/FI"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h"
+/Fo"C:\Users\heikki.vayrynen\Documents\GitHub\BatteryCollector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorCharacter.cpp.obj"
 /TP
 /GR-
 /W4
