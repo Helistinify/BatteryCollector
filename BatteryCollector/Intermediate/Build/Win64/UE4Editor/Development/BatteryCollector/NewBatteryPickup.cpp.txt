@@ -1,0 +1,5 @@
+C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\NewBatteryPickup.h
+C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\Pickup.h
+C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h
+C:\Users\heikki.vayrynen\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\NewBatteryPickup.generated.h
